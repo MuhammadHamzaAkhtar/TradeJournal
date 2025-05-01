@@ -1,3 +1,3 @@
 
-// export const BaseUrl = "https://avijobackend-production.up.railway.app";
-export const BaseUrl = "http://localhost:4000";
+export const BaseUrl = "https://trade-journal-api-five.vercel.app";
+// export const BaseUrl = "http://localhost:4000";
